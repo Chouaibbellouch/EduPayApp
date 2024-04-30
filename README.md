@@ -23,7 +23,7 @@ EduPay App est une application web full-stack destinée à la gestion des paieme
 Pour installer et exécuter ce projet localement, assurez-vous d'avoir Java et Node.js installés.
 
 1. Clonez le dépôt :  
-git clone https://github.com/yourusername/EduPayApp.git
+git clone https://github.com/Chouaibbellouch/EduPayApp.git
 
 2. Installez les dépendances du backend :  
 cd EduPayApp 
