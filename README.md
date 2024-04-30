@@ -26,8 +26,8 @@ Pour installer et exécuter ce projet localement, assurez-vous d'avoir Java et N
 git clone https://github.com/Chouaibbellouch/EduPayApp.git
 
 2. Installez les dépendances du backend :  
-cd EduPayApp 
-./mvnw install
+cd EduPayApp  
+./mvnw install  
 
 3. Installez les dépendances du frontend :  
 cd ../frontend-angular  
